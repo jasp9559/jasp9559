@@ -5,7 +5,7 @@
 Hi, I'm Jaspreet Singh, working as a Business Consultant at AGH Advisors. Currently working on two live projects, one related to NLP dealing with sentiment analysis over call transcripts and other on OpenCV dealing with the image recognition for defective part recognition (Can't really disclose the project descriptions as of now) 
 
 ## Get in touch
-- ![372102050_LINKEDIN_ICON_1080](https://user-images.githubusercontent.com/82469151/147878369-69c0cb67-9c7c-45d7-a148-9537e805ba29.png) LinkedIn: https://www.linkedin.com/in/jaspreet-singh-0515a412/
+- ![—Pngtree—linkedin social media icon design_3654804](https://user-images.githubusercontent.com/82469151/147878469-d4926132-d3dd-4961-8261-0d35ab1a110e.png) LinkedIn: https://www.linkedin.com/in/jaspreet-singh-0515a412/
 - Twitter: https://twitter.com/jazz9559
 - Facebook: https://facebook.com/jazz9559
 
