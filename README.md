@@ -17,7 +17,6 @@ Currently working on the following live projects:
 
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
-<a href="[https://www.jetbrains.com/pycharm/](https://en.wikipedia.org/wiki/Natural_language_processing)" target="_blank"> <img src="[https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue)" alt="NLP"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/></a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> </a>
